@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:45:06.448191
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:18
 #+TITLE: 四分律含注戒本疏科
 #+PROPERTY: CBETA_ID X39n0713
 #+PROPERTY: ID KR6k0145
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 39, No. 713
 #+PROPERTY: VOL 39
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6k0145_X_001-0590a> 
 #+PROPERTY: JUAN 1
-No.713¶
-
- 一之上釋四分律含注戒本疏科卷一之上¶
+No. 713¶
+釋四分律含注戒本疏科卷一之上¶
 大宋　餘杭沙門　元照　錄¶
 ¶
 
@@ -861,7 +860,7 @@ No.713¶
   * 二一下別釋(三)¶
   
   * 初約止作分¶
-  * 二有下約已未分¶
+  * 二有下約巳未分¶
   * 三有下約三根分¶
   * 三所為(二)¶
   
@@ -1027,8 +1026,7 @@ No.713¶
 釋四分律含注戒本疏科卷一之上
 <pb:KR6k0145_X_001-0602a>¶
 ¶
-
- 一之下釋四分律含注戒本疏科卷一之下¶
+釋四分律含注戒本疏科卷一之下¶
 ¶
 
   
